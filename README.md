@@ -2,6 +2,10 @@
 
 A collection of agent skills tailored for Software QA and Testing professionals. Skills can be invoked in any agentic IDE that supports the agent skills format — including GitHub Copilot, Claude Code, Cursor, Windsurf, and others.
 
+## Learn About Agent Skills
+
+New to agent skills? Watch: **[Agent Skills Explained: The New Way to Supercharge AI Agents](https://www.youtube.com/watch?v=L5rFa68GGKE)**
+
 ## Skills
 
 | Skill                                                      | Description                                                        | Docs                                                                 |
